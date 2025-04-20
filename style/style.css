@@ -1057,7 +1057,7 @@ ul li {
     justify-content: flex-end;
     position: relative;
     line-height: 5vw;
-    bottom: 100%;
+    top: 20vw;
     right: 15vw;
 }
 
